@@ -25,7 +25,7 @@ GitHubへのリンクは[こちら](https://github.com/takumi98/EngineerBookshel
 ## 作成したもの
 <dl>
   <dt>1. 天気APIを用いた気象情報サイト</dt>
-  <dd>サイトへのリンクは<a href="https://github.com/takumi98/quelcode-js/tree/feature/js-challenge1">こちら</a></br>
+  <dd>サイトへのリンクは<a href="https://takumi98.github.io/quelcode-js/js-weather/index.html">こちら</a></br>
       GitHubへのリンクは<a href="https://github.com/takumi98/quelcode-js/tree/feature/js-challenge1">こちら</a>
   </dd>
 </dl>
