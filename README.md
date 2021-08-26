@@ -17,7 +17,7 @@ Jira/Confluence/Backlog/Adobe XD/Git/GitHub/OWASP ZAP/VirtualBox
 
 ## 2.制作物
 ### 技術書登録アプリ
-![image](https://user-images.githubusercontent.com/68890733/130907379-e0ef24a6-fc3b-41ce-be5c-b3a65f960f03.png)
+![image](https://user-images.githubusercontent.com/68890733/130907379-e0ef24a6-fc3b-41ce-be5c-b3a65f960f03.png)<br>
 個人開発で作成したアプリです。自分の学習記録と、振り返りやすいように検索機能をつけました。<br>
 未完成な部分がありますが、基本的なCRUD機能は実装済みです。<br>
 GitHubへのリンクは[こちら](https://github.com/takumi98/EngineerBookshelf)<br>
