@@ -17,18 +17,21 @@ Jira/Confluence/Backlog/Adobe XD/Git/GitHub/OWASP ZAP/VirtualBox
 
 ## 2.制作物
 ## 技術書登録アプリ
-<img height="250" alt="team-credit" src="https://user-images.githubusercontent.com/71806630/118693100-b68ed400-b845-11eb-9d2a-8e15ff838b84.png">   <img height="250" alt="team-schdules" src="https://user-images.githubusercontent.com/71806630/118697996-e1c7f200-b84a-11eb-927a-902e398fd103.png"> <img height="250" alt="team-ticket" src="https://user-images.githubusercontent.com/71806630/118699000-ffe22200-b84b-11eb-99df-b3a5055545d7.png">
+<img height="250" alt="" src="">   <img height="250" alt="" src=""> <img height="250" alt="" src="">
 
 Github：[URL](https://github.com/takumi98/EngineerBookshelf)<br>
 サイトへのリンク：[URL]()<br>
 
 ## 掲示板サイトの機能追加(PHP)
 掲示板サイトにリツイート機能といいね機能を追加しました。<br>
-<img height="250" alt="掲示板" src="https://user-images.githubusercontent.com/71806630/118713991-72a7c900-b85d-11eb-87a4-35bba5090b80.png"><br>
+<img height="250" alt="掲示板" src="https://user-images.githubusercontent.com/68890733/131259163-228cbe49-ce71-4701-bece-2afec63df1f5.png"><br>
 サイトへのリンク：[URL](http://54.64.109.161:10080/php-challenge/index.php) (ログイン時のメールアドレス：test@example.com / パスワード：password)<br>
 Github：[URL](https://github.com/takumi98/quelcode-php/tree/feature/php-challenge)
 
 ## 天気予報アプリ(JavaScript)
 天気APIからプルダウンで選択した地域の天気を取得するアプリを作成しました。<br>
+<img height="250" alt="天気予報" src="https://user-images.githubusercontent.com/68890733/131260760-05609d19-a23c-4cc9-9bf8-4bd486b6ab0d.png">
+<img height="250" alt="天気予報" src="https://user-images.githubusercontent.com/68890733/131260799-28b7fcd2-b4d3-419c-9913-f5b6fa842bc0.png">
+<img height="250" alt="天気予報" src="https://user-images.githubusercontent.com/68890733/131260848-dee12c0c-3548-4047-8d11-d6f47d3b5d3e.png"><br>
 リンク：[URL](https://takumi98.github.io/quelcode-js/js-weather/index.html)<br>
 Github：[URL](https://github.com/takumi98/quelcode-js/tree/feature/js-challenge1)
