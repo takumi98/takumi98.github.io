@@ -33,5 +33,5 @@ Github：[URL](https://github.com/takumi98/quelcode-php/tree/feature/php-challen
 <img height="250" alt="天気予報" src="https://user-images.githubusercontent.com/68890733/131260760-05609d19-a23c-4cc9-9bf8-4bd486b6ab0d.png">
 <img height="250" alt="天気予報" src="https://user-images.githubusercontent.com/68890733/131260799-28b7fcd2-b4d3-419c-9913-f5b6fa842bc0.png">
 <img height="250" alt="天気予報" src="https://user-images.githubusercontent.com/68890733/131260848-dee12c0c-3548-4047-8d11-d6f47d3b5d3e.png"><br>
-リンク：[URL](https://takumi98.github.io/quelcode-js/js-weather/index.html)<br>
+サイトへのリンク：[URL](https://takumi98.github.io/quelcode-js/js-weather/index.html)<br>
 Github：[URL](https://github.com/takumi98/quelcode-js/tree/feature/js-challenge1)
