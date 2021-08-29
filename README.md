@@ -5,15 +5,15 @@ HTML5/CSS3/PHP7.2/Laravel6/JavaScript/jQuery/MySQL5.7
 ### <環境>
 - MAMP
 - Docker
-- AWS：VPC/IAM/EC2/RDS/S3/Route53
+- AWS：VPC/IAM/EC2/S3
 - Linux
 
 ### <非機能部分>
-- セキュリティ：XSS/SQLインジェクション/CSRF/セションハイジャック/HTTPヘッダ・インジェクション...
+- セキュリティ：XSS/SQLインジェクション/CSRF/セションハイジャック...
 - ソフトウェアテスト：ブラックボックステスト/ホワイトボックステスト
 - ネットワーク：OSI参照モデル/TCP/IP/NAT・NAPT/スイッチ/ハブ/ルータ/暗号化...
 ### <ツール>
-Jira/Confluence/Backlog/Adobe XD/Git/GitHub/OWASP ZAP/VirtualBox
+Jira/Confluence/Backlog/Figma/Git/GitHub/OWASP ZAP/VirtualBox
 
 ## 2.制作物
 ## 技術書登録アプリ
