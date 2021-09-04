@@ -5,7 +5,7 @@ HTML5/CSS3/PHP7.2/Laravel6/JavaScript/jQuery/MySQL5.7
 ### <環境>
 - MAMP
 - Docker
-- AWS：VPC/IAM/EC2/ECS/S3
+- AWS：VPC/IAM/EC2/ECS/S3/ELB
 - Linux
 
 ### <非機能部分>
