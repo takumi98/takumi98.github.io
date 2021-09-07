@@ -21,8 +21,6 @@ Jira/Confluence/Backlog/Figma/Git/GitHub/OWASP ZAP/VirtualBox
 機能要件、画面遷移図、ER図などはGitHubのリポジトリに記入してあります。<br>
 GitHubリポジトリは[こちら](https://github.com/takumi98/EngineerBookshelf)<br>
 <img height="250" alt="EngineerBookshelf" src="https://user-images.githubusercontent.com/68890733/131423768-838ec631-9b90-4b87-859e-7eab65cc52bc.png">   <img height="250" alt="EngineerBookshelf" src="https://user-images.githubusercontent.com/68890733/131423791-d4b9db00-2523-4f8c-b067-c49a738c2a99.png"> <img height="250" alt="EngineerBookshelf" src="https://user-images.githubusercontent.com/68890733/131423810-a857c63b-7379-477c-9217-dbafdaa2c515.png">
-<!-- 
-サイトへのリンクは[こちら]()(ログイン時のメールアドレス：98@example.com / パスワード：password)<br> -->
 
 ## 掲示板サイトの機能追加(PHP)
 掲示板サイトにリツイート機能といいね機能を追加しました。<br>
