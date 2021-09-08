@@ -25,7 +25,7 @@ GitHubリポジトリは[こちら](https://github.com/takumi98/EngineerBookshel
 ## 掲示板サイトの機能追加(PHP)
 掲示板サイトにリツイート機能といいね機能を追加しました。<br>
 <img height="250" alt="掲示板" src="https://user-images.githubusercontent.com/68890733/131259163-228cbe49-ce71-4701-bece-2afec63df1f5.png"><br>
-<!-- サイトへのリンクは[こちら]() (ログイン時のメールアドレス：test@example.com / パスワード：password)<br> -->
+
 GitHubリポジトリは[こちら](https://github.com/takumi98/quelcode-php/tree/feature/php-challenge)
 
 ## 天気予報アプリ(JavaScript)
