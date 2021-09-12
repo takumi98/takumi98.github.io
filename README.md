@@ -16,7 +16,7 @@ HTML5/CSS3/PHP7.2/Laravel6/JavaScript/jQuery/MySQL5.7
 Jira/Confluence/Backlog/Figma/Git/GitHub/OWASP ZAP/VirtualBox
 
 ## 2.制作物
-## 技術書登録アプリ
+## 技術書登録アプリ（Laravel）
 自身が、学習した書籍を登録、検索できるアプリを作成しました。<br>
 機能要件、画面遷移図、ER図などはGitHubのリポジトリに記入してあります。<br>
 GitHubリポジトリは[こちら](https://github.com/takumi98/EngineerBookshelf)<br>
