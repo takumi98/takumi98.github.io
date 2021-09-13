@@ -1,7 +1,7 @@
 # 小林拓実のポートフォリオサイト
 ## 1. スキル
 ### <言語/フレームワーク>
-HTML5/CSS3/PHP7.2/Laravel6/JavaScript/jQuery/MySQL5.7
+HTML5/CSS3/PHP7.2/Laravel6/JavaScript/MySQL5.7
 ### <環境>
 - MAMP
 - Docker
