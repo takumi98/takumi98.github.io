@@ -37,5 +37,3 @@ GitHubリポジトリは[こちら](https://github.com/takumi98/quelcode-php/tre
 GitHubリポジトリは[こちら](https://github.com/takumi98/quelcode-js/tree/feature/js-challenge1)
 
 ## 技術記事
-クッキーとセッションとデータベース<br>
-サイトへのリンクは[こちら](https://qiita.com/98taku/private/020f426601dbab1dc82c)<br>
